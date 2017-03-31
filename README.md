@@ -1,2 +1,2 @@
 # term-might
-simple terminal application written in bash
+terminal application written in bash
